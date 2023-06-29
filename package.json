@@ -2,10 +2,10 @@
   "name": "express-js-sharpner",
   "version": "1.0.0",
   "description": "express",
-  "main": "server.js",
+  "main": "task2AndTask3.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon task2.js"
+    "start": "nodemon task2AndTask3.js"
   },
   "author": "bhushan bhale",
   "license": "ISC",
