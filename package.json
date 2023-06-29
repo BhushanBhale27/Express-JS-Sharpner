@@ -2,10 +2,10 @@
   "name": "express-js-sharpner",
   "version": "1.0.0",
   "description": "express",
-  "main": "group-chat-app/chat-server.js",
+  "main": "task5.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon group-chat-app/chat-server.js"
+    "start": "nodemon task5.js"
   },
   "author": "bhushan bhale",
   "license": "ISC",
